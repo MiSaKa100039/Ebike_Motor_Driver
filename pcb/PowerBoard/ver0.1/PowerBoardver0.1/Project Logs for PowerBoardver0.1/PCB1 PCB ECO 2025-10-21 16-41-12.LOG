@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Shunt_BusL Pin=R25-1
+Added Pin To Net: NetName=Shunt_BusL Pin=R16-1
+Added Pin To Net: NetName=Shunt_BusL Pin=R19-1
+Added Pin To Net: NetName=Shunt_BusL Pin=R22-1
+Added Pin To Net: NetName=Shunt_BusL Pin=R25-2
+Added Pin To Net: NetName=VBUS Pin=SP7-1
+Added Pin To Net: NetName=Shunt_BusL Pin=SP9-1
+Change Net Name : Old Net Name=Shunt_BusL New Net Name=Shunt_BusH
+Added Pin To Net: NetName=Shunt_BusL Pin=R25-1
+Added Net: Name=Shunt_BusL

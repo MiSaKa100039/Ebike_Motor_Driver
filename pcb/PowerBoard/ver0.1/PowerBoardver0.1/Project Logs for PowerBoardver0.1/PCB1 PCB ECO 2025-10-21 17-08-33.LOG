@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Shunt_BusH Pin=SP4-1
+Added Pin To Net: NetName=Shunt_BusL Pin=SP4-1

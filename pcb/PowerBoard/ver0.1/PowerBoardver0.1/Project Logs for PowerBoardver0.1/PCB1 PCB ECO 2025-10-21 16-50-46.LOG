@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VS_U Pin=R17-1
+Removed Pin From Net: NetName=Shunt_BusH Pin=R17-2
+Removed Pin From Net: NetName=Shunt_BusH Pin=R20-2
+Removed Pin From Net: NetName=VS_W Pin=R23-1
+Removed Pin From Net: NetName=Shunt_BusH Pin=R23-2
+Added Pin To Net: NetName=Shunt_UH Pin=R17-1
+Added Pin To Net: NetName=VS_U Pin=R17-2
+Added Pin To Net: NetName=Shunt_VH Pin=R20-2
+Added Pin To Net: NetName=Shunt_WH Pin=R23-1
+Added Pin To Net: NetName=VS_W Pin=R23-2

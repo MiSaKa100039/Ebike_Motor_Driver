@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Shunt_UH Pin=Q8-2
+Removed Pin From Net: NetName=Shunt_UH Pin=Q11-2
+Removed Pin From Net: NetName=Shunt_UH Pin=R19-2
+Added Pin To Net: NetName=Shunt_VH Pin=Q8-2
+Added Pin To Net: NetName=Shunt_VH Pin=Q11-2
+Added Pin To Net: NetName=Shunt_VH Pin=R19-2
+Added Net: Name=Shunt_VH
