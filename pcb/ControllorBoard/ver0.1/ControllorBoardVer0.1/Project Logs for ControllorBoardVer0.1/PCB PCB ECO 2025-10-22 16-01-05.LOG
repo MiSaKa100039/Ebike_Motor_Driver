@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBUS Pin=JP1_1-8
+Removed Pin From Net: NetName=Motor-U Pin=JP3_1-7
+Removed Pin From Net: NetName=Motor-U Pin=JP3_1-8
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Member To Class: ClassName=Connector Member=Component Hole? M3ÂÝÎÆ¿×
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON

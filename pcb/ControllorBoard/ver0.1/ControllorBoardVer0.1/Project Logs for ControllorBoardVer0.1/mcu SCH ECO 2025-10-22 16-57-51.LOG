@@ -1,0 +1,4 @@
+Replace Part C23 C in H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\mcu.SchDoc with C from Capacitor.SchLib
+Replace Part C24 C in H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\mcu.SchDoc with C from Capacitor.SchLib
+Replace Part U4 STM32G431CBUx in H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\mcu.SchDoc with STM32G431CBUx from MCU.SchLib
+Replace Part Y1 Crystal in H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\mcu.SchDoc with Crystal from Crystal.SchLib

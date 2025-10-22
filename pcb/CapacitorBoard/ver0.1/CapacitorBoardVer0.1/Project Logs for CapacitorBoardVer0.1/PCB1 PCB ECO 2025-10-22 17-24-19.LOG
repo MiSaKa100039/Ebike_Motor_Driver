@@ -1,0 +1,35 @@
+Added Component: Designator=Hole1(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole2(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole3(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole4(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Pin To Net: NetName=PGND Pin=Hole4-1
+Added Net: Name=PGND
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Pin To Net: NetName=VBUS Pin=Hole3-1
+Added Net: Name=VBUS
+Added Class: Name=Sheet

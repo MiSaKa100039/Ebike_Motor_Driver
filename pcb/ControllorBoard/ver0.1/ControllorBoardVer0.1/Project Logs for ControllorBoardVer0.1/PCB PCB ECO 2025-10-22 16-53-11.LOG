@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=C11 Old Footprint=c0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C12 Old Footprint=c0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C15 Old Footprint=c0603_l New Footprint=c1206_l
+Change Component Footprint: Designator=C16 Old Footprint=c0603_l New Footprint=c1206_l
+Change Component Footprint: Designator=C17 Old Footprint=c0603_l New Footprint=c1206_l
+Change Component Footprint: Designator=C18 Old Footprint=c0603_l New Footprint=c1206_l
+Change Component Footprint: Designator=C25 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C26 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C27 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C28 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C31 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=C32 Old Footprint=C0603_l New Footprint=C1206_l
+Change Component Footprint: Designator=E1 Old Footprint=CD A(3216) New Footprint=CT 6*4 - V
+Change Component Footprint: Designator=C1 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C2 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C5 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C6 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C7 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C8 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C9 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C19 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C22 Old Footprint=MLCC5.08-A New Footprint=C0603_l
+Change Component Footprint: Designator=C3 Old Footprint=MLCC5.08-A New Footprint=C1206_l
+Change Component Footprint: Designator=C4 Old Footprint=MLCC5.08-A New Footprint=C1206_l
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Member To Class: ClassName=Connector Member=Component Hole? M3ÂÝÎÆ¿×
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON

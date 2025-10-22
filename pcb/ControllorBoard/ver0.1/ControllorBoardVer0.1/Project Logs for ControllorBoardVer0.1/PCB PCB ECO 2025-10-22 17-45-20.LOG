@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Hole1 Old Footprint=M3_3*7ÔØÁ÷¿×_ÂİË¿ New Footprint=M3_3*7ÔØÁ÷¿×_Í­Öù
+Change Component Footprint: Designator=Hole2 Old Footprint=M3_3*7ÔØÁ÷¿×_ÂİË¿ New Footprint=M3_3*7ÔØÁ÷¿×_Í­Öù
+Change Component Footprint: Designator=Hole6 Old Footprint=M3_3*7ÔØÁ÷¿×_ÂİË¿ New Footprint=M3_3*7ÔØÁ÷¿×_Í­Öù
+Change Component Footprint: Designator=Hole7 Old Footprint=M3_3*7ÔØÁ÷¿×_ÂİË¿ New Footprint=M3_3*7ÔØÁ÷¿×_Í­Öù
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON

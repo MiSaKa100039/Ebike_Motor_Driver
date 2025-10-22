@@ -1,0 +1,61 @@
+Added Component: Designator=Hole1(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole2(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole3(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole4(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Component: Designator=Hole5(M3_3*7ÔØÁ÷¿×_ÂÝË¿)
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=VBUS Pin=Hole1-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=PGND Pin=Hole2-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-U Pin=Hole3-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-V Pin=Hole4-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Added Pin To Net: NetName=Motor-W Pin=Hole5-1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Member To Class: ClassName=Connector Member=Component Hole1 M3ÂÝÎÆ¿×
+Added Member To Class: ClassName=Connector Member=Component Hole2 M3ÂÝÎÆ¿×
+Added Member To Class: ClassName=Connector Member=Component Hole3 M3ÂÝÎÆ¿×
+Added Member To Class: ClassName=Connector Member=Component Hole4 M3ÂÝÎÆ¿×
+Added Member To Class: ClassName=Connector Member=Component Hole5 M3ÂÝÎÆ¿×
+Add Class Member: Failed to add class member : Component J1 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component J2 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component J3 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component J4 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component J5 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D1 Old Footprint=DO-41V New Footprint=SOD-123
+Change Component Footprint: Designator=D2 Old Footprint=DO-41V New Footprint=SOD-123
+Change Component Footprint: Designator=D7 Old Footprint=DO-41V New Footprint=SOD-123
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Member To Class: ClassName=Connector Member=Component Hole? M3ÂÝÎÆ¿×
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON
