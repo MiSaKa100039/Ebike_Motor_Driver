@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=Shunt_BusH Pin=JP1-2
+Added Pin To Net: NetName=LO-U Pin=JP1-3
+Added Pin To Net: NetName=Shunt_UH Pin=JP1-4
+Added Pin To Net: NetName=VS_U Pin=JP1-5
+Added Pin To Net: NetName=Shunt_BusH Pin=JP1-6
+Added Pin To Net: NetName=HO-U Pin=JP1-7
+Added Pin To Net: NetName=Shunt_BusL Pin=JP1-8
+Added Pin To Net: NetName=Shunt_BusH Pin=JP2-2
+Added Pin To Net: NetName=LO-W Pin=JP2-3
+Added Pin To Net: NetName=Shunt_WH Pin=JP2-4
+Added Pin To Net: NetName=VS_W Pin=JP2-5
+Added Pin To Net: NetName=HO-W Pin=JP2-7
+Added Pin To Net: NetName=Shunt_BusH Pin=JP3-2
+Added Pin To Net: NetName=LO-V Pin=JP3-3
+Added Pin To Net: NetName=Shunt_VH Pin=JP3-4
+Added Pin To Net: NetName=VS_V Pin=JP3-5
+Added Pin To Net: NetName=HO-V Pin=JP3-7

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C3 Old Footprint=C0603_L New Footprint=C1206_L
+Change Component Footprint: Designator=C4 Old Footprint=C0603_L New Footprint=C1206_L
+Added Pin To Net: NetName=AGND Pin=OPA2-4

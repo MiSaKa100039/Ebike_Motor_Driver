@@ -1,0 +1,209 @@
+Added Component: Designator=C34(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=OPA1(TLV9064 RUC)
+Add component (AddParameter): Name = "BOM名称"; Value = "4路运放"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=OPA2(DFN-4L 1X1)
+Added Component: Designator=R39(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R49(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R50(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R55(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R56(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R57(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R58(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCA3.3V Pin=OPA1-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Pin To Net: NetName=AGND Pin=C34-1
+Added Pin To Net: NetName=AGND Pin=C35-1
+Added Pin To Net: NetName=AGND Pin=C36-1
+Added Pin To Net: NetName=AGND Pin=C37-1
+Added Pin To Net: NetName=AGND Pin=OPA1-10
+Added Net: Name=AGND
+Added Pin To Net: NetName=I_BUS Pin=C34-2
+Added Pin To Net: NetName=I_BUS Pin=C35-2
+Added Pin To Net: NetName=I_BUS Pin=C36-2
+Added Pin To Net: NetName=I_BUS Pin=C37-2
+Added Pin To Net: NetName=I_BUS Pin=R41-1
+Added Pin To Net: NetName=I_BUS Pin=R46-1
+Added Pin To Net: NetName=I_BUS Pin=R51-1
+Added Pin To Net: NetName=I_BUS Pin=R56-1
+Added Net: Name=I_BUS
+Added Pin To Net: NetName=NetOPA1_1 Pin=OPA1-1
+Added Pin To Net: NetName=NetOPA1_1 Pin=R42-1
+Added Pin To Net: NetName=NetOPA1_1 Pin=R43-1
+Added Net: Name=NetOPA1_1
+Added Pin To Net: NetName=NetOPA1_2 Pin=OPA1-2
+Added Pin To Net: NetName=NetOPA1_2 Pin=R39-1
+Added Pin To Net: NetName=NetOPA1_2 Pin=R40-1
+Added Net: Name=NetOPA1_2
+Added Pin To Net: NetName=NetOPA1_4 Pin=OPA1-4
+Added Pin To Net: NetName=NetOPA1_4 Pin=R44-1
+Added Pin To Net: NetName=NetOPA1_4 Pin=R45-1
+Added Net: Name=NetOPA1_4
+Added Pin To Net: NetName=NetOPA1_5 Pin=OPA1-5
+Added Pin To Net: NetName=NetOPA1_5 Pin=R47-1
+Added Pin To Net: NetName=NetOPA1_5 Pin=R48-1
+Added Net: Name=NetOPA1_5
+Added Pin To Net: NetName=NetOPA1_6 Pin=OPA1-6
+Added Pin To Net: NetName=NetOPA1_6 Pin=R46-2
+Added Pin To Net: NetName=NetOPA1_6 Pin=R48-2
+Added Net: Name=NetOPA1_6
+Added Pin To Net: NetName=NetOPA1_7 Pin=OPA1-7
+Added Pin To Net: NetName=NetOPA1_7 Pin=R51-2
+Added Pin To Net: NetName=NetOPA1_7 Pin=R53-2
+Added Net: Name=NetOPA1_7
+Added Pin To Net: NetName=NetOPA1_8 Pin=OPA1-8
+Added Pin To Net: NetName=NetOPA1_8 Pin=R52-1
+Added Pin To Net: NetName=NetOPA1_8 Pin=R53-1
+Added Net: Name=NetOPA1_8
+Added Pin To Net: NetName=NetOPA1_9 Pin=OPA1-9
+Added Pin To Net: NetName=NetOPA1_9 Pin=R49-1
+Added Pin To Net: NetName=NetOPA1_9 Pin=R50-1
+Added Net: Name=NetOPA1_9
+Added Pin To Net: NetName=NetOPA1_12 Pin=OPA1-12
+Added Pin To Net: NetName=NetOPA1_12 Pin=R57-1
+Added Pin To Net: NetName=NetOPA1_12 Pin=R58-1
+Added Net: Name=NetOPA1_12
+Added Pin To Net: NetName=NetOPA1_13 Pin=OPA1-13
+Added Pin To Net: NetName=NetOPA1_13 Pin=R56-2
+Added Pin To Net: NetName=NetOPA1_13 Pin=R58-2
+Added Net: Name=NetOPA1_13
+Add Net: Net with name "NetOPA1_13" already exists
+Added Pin To Net: NetName=NetOPA1_14 Pin=OPA1-14
+Added Pin To Net: NetName=NetOPA1_14 Pin=R41-2
+Added Pin To Net: NetName=NetOPA1_14 Pin=R43-2
+Added Net: Name=NetOPA1_14
+Added Pin To Net: NetName=Shunt_BusH Pin=R40-2
+Added Pin To Net: NetName=Shunt_BusH Pin=R45-2
+Added Pin To Net: NetName=Shunt_BusH Pin=R50-2
+Added Pin To Net: NetName=Shunt_BusH Pin=R55-2
+Added Net: Name=Shunt_BusH
+Added Pin To Net: NetName=Shunt_BusL Pin=R42-2
+Added Pin To Net: NetName=Shunt_BusL Pin=R47-2
+Added Pin To Net: NetName=Shunt_BusL Pin=R52-2
+Added Pin To Net: NetName=Shunt_BusL Pin=R57-2
+Added Net: Name=Shunt_BusL
+Added Pin To Net: NetName=VCCA1.65V Pin=R39-2
+Added Pin To Net: NetName=VCCA1.65V Pin=R44-2
+Added Pin To Net: NetName=VCCA1.65V Pin=R49-2
+Added Pin To Net: NetName=VCCA1.65V Pin=R54-2
+Added Net: Name=VCCA1.65V
+Added Member To Class: ClassName=mcu Member=Component C34 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component C35 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component C36 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component C37 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component OPA1 TLV9064 RUC
+Added Member To Class: ClassName=mcu Member=Component OPA2 TLV9061 DPW
+Added Member To Class: ClassName=mcu Member=Component R39 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R40 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R41 60K 1%
+Added Member To Class: ClassName=mcu Member=Component R42 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R43 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R44 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R45 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R46 60K 1%
+Added Member To Class: ClassName=mcu Member=Component R47 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R48 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R49 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R50 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R51 60K 1%
+Added Member To Class: ClassName=mcu Member=Component R52 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R53 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R54 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R55 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R56 60K 1%
+Added Member To Class: ClassName=mcu Member=Component R57 1K 1%
+Added Member To Class: ClassName=mcu Member=Component R58 20K 1%
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON

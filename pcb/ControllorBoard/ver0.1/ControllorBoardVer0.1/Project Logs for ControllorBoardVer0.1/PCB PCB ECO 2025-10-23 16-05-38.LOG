@@ -1,0 +1,21 @@
+Added Component: Designator=R7(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R61(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC12V Pin=R7-1
+Added Pin To Net: NetName=NetD1_1 Pin=R7-2
+Added Pin To Net: NetName=VCC12V Pin=R14-1
+Added Pin To Net: NetName=NetD2_1 Pin=R14-2
+Added Pin To Net: NetName=VCC12V Pin=R61-1
+Added Pin To Net: NetName=NetD7_1 Pin=R61-2
+Added Member To Class: ClassName=driver Member=Component R7 10R 1%
+Added Member To Class: ClassName=driver Member=Component R14 10R 1%
+Added Member To Class: ClassName=driver Member=Component R61 10R 1%

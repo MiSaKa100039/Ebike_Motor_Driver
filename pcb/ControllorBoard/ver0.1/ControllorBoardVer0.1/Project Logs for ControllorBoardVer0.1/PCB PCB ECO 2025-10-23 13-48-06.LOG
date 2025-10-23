@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AGND Pin=OPA2-4
+Change Component Footprint: Designator=OPA2 Old Footprint=TLV9061 DPW New Footprint=DFN-4L 1X1
+Added Pin To Net: NetName=AGND Pin=OPA2-3
+Added Pin To Net: NetName=NetOPA2_4 Pin=OPA2-4

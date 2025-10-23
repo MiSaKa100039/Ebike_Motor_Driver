@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=AGND Pin=OPA2-4
+Added Pin To Net: NetName=NetOPA1_11 Pin=OPA1-11
+Added Pin To Net: NetName=NetOPA1_11 Pin=R54-1
+Added Pin To Net: NetName=NetOPA1_11 Pin=R55-1
+Added Net: Name=NetOPA1_11

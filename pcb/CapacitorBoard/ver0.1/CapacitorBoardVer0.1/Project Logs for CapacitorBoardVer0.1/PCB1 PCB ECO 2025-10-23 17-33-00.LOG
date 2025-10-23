@@ -1,0 +1,21 @@
+Added Component: Designator=E10(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E11(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E12(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=E10-1
+Added Pin To Net: NetName=PGND Pin=E10-2
+Added Pin To Net: NetName=VBUS Pin=E11-1
+Added Pin To Net: NetName=PGND Pin=E11-2
+Added Pin To Net: NetName=VBUS Pin=E12-1
+Added Pin To Net: NetName=PGND Pin=E12-2
+Added Member To Class: ClassName=Sheet Member=Component E10 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E11 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E12 330uF 100V

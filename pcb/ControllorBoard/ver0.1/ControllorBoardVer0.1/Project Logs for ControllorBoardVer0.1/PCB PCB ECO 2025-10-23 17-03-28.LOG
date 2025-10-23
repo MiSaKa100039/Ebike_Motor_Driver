@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Shunt_WL Pin=JP1-2
+Removed Pin From Net: NetName=Shunt_VL Pin=JP2-2
+Removed Pin From Net: NetName=Shunt_UH Pin=JP3-2
+Removed Pin From Net: NetName=Shunt_BusH Pin=JP3-5
+Removed Pin From Net: NetName=Shunt_BusL Pin=JP3-7
+Added Pin To Net: NetName=Shunt_UH Pin=JP1-1
+Added Pin To Net: NetName=Shunt_BusH Pin=JP1-5
+Added Pin To Net: NetName=Shunt_BusL Pin=JP1-7
+Added Pin To Net: NetName=Shunt_VL Pin=JP2-1
+Added Pin To Net: NetName=Shunt_WL Pin=JP3-1
+Change Net Name : Old Net Name=Shunt_UL New Net Name=Shunt_WH
+Change Net Name : Old Net Name=Shunt_WH New Net Name=Shunt_UL

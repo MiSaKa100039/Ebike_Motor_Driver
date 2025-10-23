@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=LO-U Pin=JP1-4
+Added Pin To Net: NetName=VS_U Pin=JP1-6
+Added Pin To Net: NetName=HO-U Pin=JP1-8
+Added Pin To Net: NetName=LO-V Pin=JP2-4
+Added Pin To Net: NetName=VS_V Pin=JP2-6
+Added Pin To Net: NetName=HO-V Pin=JP2-8

@@ -1,0 +1,28 @@
+Added Component: Designator=C38(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R59(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R60(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C38-1
+Added Pin To Net: NetName=VCCA3.3V Pin=C38-2
+Added Pin To Net: NetName=VCCA1.65V Pin=OPA2-1
+Added Pin To Net: NetName=VCCA1.65V Pin=OPA2-2
+Added Pin To Net: NetName=AGND Pin=OPA2-4
+Added Pin To Net: NetName=VCCA3.3V Pin=OPA2-5
+Added Pin To Net: NetName=VCCA3.3V Pin=R59-1
+Added Pin To Net: NetName=AGND Pin=R60-2
+Add Net: Net with name "NetOPA1_13" already exists
+Added Pin To Net: NetName=NetOPA2_4 Pin=OPA2-4
+Added Pin To Net: NetName=NetOPA2_4 Pin=R59-2
+Added Pin To Net: NetName=NetOPA2_4 Pin=R60-1
+Added Net: Name=NetOPA2_4
+Added Member To Class: ClassName=mcu Member=Component C38 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component R59 20K 1%
+Added Member To Class: ClassName=mcu Member=Component R60 20K 1%

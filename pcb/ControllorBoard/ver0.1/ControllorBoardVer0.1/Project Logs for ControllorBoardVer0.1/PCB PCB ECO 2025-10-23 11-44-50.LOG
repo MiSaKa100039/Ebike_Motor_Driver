@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U3 Old Footprint=SOT23-5 New Footprint=DFN-4L 1X1
+Added Component: Designator=U1(DFN-4L 1X1)
+Added Pin To Net: NetName=VCC3.3V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-3
+Added Pin To Net: NetName=VCC5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Add Net: Net with name "NetOPA1_13" already exists
+Added Member To Class: ClassName=power Member=Component U1 TP132C33D4_X2SON

@@ -1,0 +1,63 @@
+Added Component: Designator=E1(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E2(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E3(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E4(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E5(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E6(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E7(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E8(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E9(13*25插件电解电容 卧式)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin E1-1
+Add Pin To Net: Unknown Pin: Pin E1-2
+Add Pin To Net: Unknown Pin: Pin E2-1
+Add Pin To Net: Unknown Pin: Pin E2-2
+Add Pin To Net: Unknown Pin: Pin E3-1
+Add Pin To Net: Unknown Pin: Pin E3-2
+Add Pin To Net: Unknown Pin: Pin E4-1
+Add Pin To Net: Unknown Pin: Pin E4-2
+Add Pin To Net: Unknown Pin: Pin E5-1
+Add Pin To Net: Unknown Pin: Pin E5-2
+Add Pin To Net: Unknown Pin: Pin E6-1
+Add Pin To Net: Unknown Pin: Pin E6-2
+Add Pin To Net: Unknown Pin: Pin E7-1
+Add Pin To Net: Unknown Pin: Pin E7-2
+Add Pin To Net: Unknown Pin: Pin E8-1
+Add Pin To Net: Unknown Pin: Pin E8-2
+Add Pin To Net: Unknown Pin: Pin E9-1
+Add Pin To Net: Unknown Pin: Pin E9-2
+Added Member To Class: ClassName=Sheet Member=Component E1 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E2 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E3 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E4 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E5 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E6 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E7 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E8 330uF 100V
+Added Member To Class: ClassName=Sheet Member=Component E9 330uF 100V

@@ -1,0 +1,54 @@
+Added Component: Designator=J1(XT150_Ä¸×ù¼Ð°å - VBUS)
+Added Component: Designator=J2(XT150_Ä¸×ù¼Ð°å - PGND)
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Added Pin To Net: NetName=PGND Pin=J2-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Added Member To Class: ClassName=Connector Member=Component J1 XT150Ä¸×ù¼Ð°å
+Added Member To Class: ClassName=Connector Member=Component J2 XT150Ä¸×ù¼Ð°å
+Add Class Member: Failed to add class member : Component U1 TP132C33D4_X2SON
