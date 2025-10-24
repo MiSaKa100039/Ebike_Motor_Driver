@@ -1,0 +1,9 @@
+Remove Pin from Net: Failed to remove Pin
+Added Pin To Net: NetName=ADC2_IN5 Pin=C34-2
+Added Pin To Net: NetName=ADC2_IN3 Pin=C36-2
+Added Pin To Net: NetName=ADC2_IN4 Pin=C37-2
+Added Pin To Net: NetName=ADC2_IN5 Pin=R41-1
+Added Pin To Net: NetName=ADC2_IN3 Pin=R51-1
+Added Pin To Net: NetName=ADC2_IN4 Pin=R56-1
+Added Pin To Net: NetName=COMP1_INP Pin=U4-13
+Change Net Name : Old Net Name=COMP1_INP New Net Name=ADC2_IN13

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=I_BUS Pin=C36-2
+Removed Pin From Net: NetName=I_BUS Pin=C37-2
+Removed Pin From Net: NetName=Shunt_BusH Pin=R50-2
+Removed Pin From Net: NetName=I_BUS Pin=R51-1
+Removed Pin From Net: NetName=Shunt_BusL Pin=R52-2
+Removed Pin From Net: NetName=Shunt_BusH Pin=R55-2
+Removed Pin From Net: NetName=I_BUS Pin=R56-1
+Removed Pin From Net: NetName=Shunt_BusL Pin=R57-2
+Added Pin To Net: NetName=Shunt_WH Pin=R50-2
+Added Pin To Net: NetName=Shunt_WL Pin=R52-2
+Added Pin To Net: NetName=Shunt_VH Pin=R55-2
+Added Pin To Net: NetName=Shunt_VL Pin=R57-2
+Added Pin To Net: NetName=I_V Pin=C37-2
+Added Pin To Net: NetName=I_V Pin=R56-1
+Added Net: Name=I_V
+Added Pin To Net: NetName=I_W Pin=C36-2
+Added Pin To Net: NetName=I_W Pin=R51-1
+Added Net: Name=I_W

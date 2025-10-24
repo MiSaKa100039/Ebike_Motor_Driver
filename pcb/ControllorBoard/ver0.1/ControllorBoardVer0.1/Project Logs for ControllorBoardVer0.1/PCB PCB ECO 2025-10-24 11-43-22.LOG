@@ -1,0 +1,22 @@
+Added Component: Designator=JP4(MX 1.25-WS-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(MX 1.25-WS-6P)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP6(MX 1.25-WS-8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=USART_EN New Net Name=USART1_EN
+Change Net Name : Old Net Name=USART_RX New Net Name=USART1_RX
+Change Net Name : Old Net Name=USART_TX New Net Name=USART1_TX
+Added Pin To Net: NetName=SWCLK Pin=U4-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U4-36
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Connector Member=Component JP4 HDR-1X4
+Added Member To Class: ClassName=Connector Member=Component JP5 HDR-1X6
+Added Member To Class: ClassName=Connector Member=Component JP6 HDR-1X8

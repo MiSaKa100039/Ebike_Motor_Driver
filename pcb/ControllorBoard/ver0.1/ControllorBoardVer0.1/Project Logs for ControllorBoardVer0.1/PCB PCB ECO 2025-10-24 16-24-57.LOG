@@ -1,0 +1,5 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=UART4_TX Pin=JP6-3
+Removed Pin From Net: NetName=UART4_RX Pin=JP6-4
+Added Pin To Net: NetName=UART4_RX Pin=JP6-3
+Added Pin To Net: NetName=UART4_TX Pin=JP6-4

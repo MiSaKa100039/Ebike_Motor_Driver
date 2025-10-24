@@ -1,0 +1,36 @@
+Added Component: Designator=C39(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R62(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U9(DFN-8_L3.0-W3.0-P0.65-BL-EP)
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=VCC3.3V Pin=U9-8
+Added Pin To Net: NetName=RS485_A Pin=C40-2
+Added Pin To Net: NetName=RS485_A Pin=R62-1
+Added Pin To Net: NetName=RS485_A Pin=U9-6
+Added Net: Name=RS485_A
+Added Pin To Net: NetName=RS485_B Pin=C39-1
+Added Pin To Net: NetName=RS485_B Pin=R62-2
+Added Pin To Net: NetName=RS485_B Pin=U9-7
+Added Net: Name=RS485_B
+Added Pin To Net: NetName=USART_EN Pin=U9-2
+Added Pin To Net: NetName=USART_EN Pin=U9-3
+Added Net: Name=USART_EN
+Added Pin To Net: NetName=USART_RX Pin=U9-1
+Added Net: Name=USART_RX
+Added Pin To Net: NetName=USART_TX Pin=U9-4
+Added Net: Name=USART_TX
+Added Member To Class: ClassName=mcu Member=Component C39 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component C40 1nF 6.3V
+Added Member To Class: ClassName=mcu Member=Component R62 120R 1%
+Added Member To Class: ClassName=mcu Member=Component U9 SIT3088E

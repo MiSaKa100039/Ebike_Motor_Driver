@@ -1,0 +1,8 @@
+Change Component Comment : Designator=C41 Old Comment=100nF 16V New Comment=100nF 16V DNP
+Added Component: Designator=C42(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "独石电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=SumGND Pin=C42-2
+Added Member To Class: ClassName=Connector Member=Component C42 100nF 16V DNP

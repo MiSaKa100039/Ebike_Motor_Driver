@@ -1,0 +1,8 @@
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=R65(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COMP1_OUT Pin=R65-1
+Added Pin To Net: NetName=TIM1_BKIN Pin=R65-2
+Added Member To Class: ClassName=mcu Member=Component R65 0R 1%

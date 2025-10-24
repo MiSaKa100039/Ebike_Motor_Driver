@@ -1,0 +1,83 @@
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=C13(c0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C14(c0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R63(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R64(R0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCC12V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC12V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=VCC3.3V Pin=R64-1
+Added Pin To Net: NetName=ADC2_IN3 Pin=U4-14
+Added Net: Name=ADC2_IN3
+Added Pin To Net: NetName=ADC2_IN4 Pin=U4-15
+Added Net: Name=ADC2_IN4
+Added Pin To Net: NetName=ADC2_IN5 Pin=U4-16
+Added Net: Name=ADC2_IN5
+Added Pin To Net: NetName=ADC2_IN13 Pin=U4-13
+Added Net: Name=ADC2_IN13
+Added Pin To Net: NetName=BOOT0 Pin=R63-2
+Added Pin To Net: NetName=BOOT0 Pin=U4-46
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=COMP1_INP Pin=U4-18
+Added Net: Name=COMP1_INP
+Added Pin To Net: NetName=COMP1_OUT Pin=U4-8
+Added Net: Name=COMP1_OUT
+Added Pin To Net: NetName=NRST Pin=R64-2
+Added Pin To Net: NetName=NRST Pin=U4-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=SPI3_CS Pin=U4-43
+Added Net: Name=SPI3_CS
+Added Pin To Net: NetName=SPI3_MISO Pin=U4-41
+Added Net: Name=SPI3_MISO
+Added Pin To Net: NetName=SPI3_MOSI Pin=U4-42
+Added Net: Name=SPI3_MOSI
+Added Pin To Net: NetName=SPI3_SCK Pin=U4-40
+Added Net: Name=SPI3_SCK
+Added Pin To Net: NetName=TIM1_BKIN Pin=U4-2
+Added Net: Name=TIM1_BKIN
+Added Pin To Net: NetName=TIM1_CH1N Pin=U4-26
+Added Net: Name=TIM1_CH1N
+Added Pin To Net: NetName=TIM1_CH1 Pin=U4-30
+Added Net: Name=TIM1_CH1
+Added Pin To Net: NetName=TIM1_CH2N Pin=U4-27
+Added Net: Name=TIM1_CH2N
+Added Pin To Net: NetName=TIM1_CH2 Pin=U4-31
+Added Net: Name=TIM1_CH2
+Added Pin To Net: NetName=TIM1_CH3N Pin=U4-28
+Added Net: Name=TIM1_CH3N
+Added Pin To Net: NetName=TIM1_CH3 Pin=U4-32
+Added Net: Name=TIM1_CH3
+Added Pin To Net: NetName=UART4_RX Pin=U4-39
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=U4-38
+Added Net: Name=UART4_TX
+Added Pin To Net: NetName=USART2_DE Pin=U4-9
+Added Pin To Net: NetName=USART2_DE Pin=U9-2
+Added Pin To Net: NetName=USART2_DE Pin=U9-3
+Added Net: Name=USART2_DE
+Added Pin To Net: NetName=USART2_RX Pin=U4-11
+Added Pin To Net: NetName=USART2_RX Pin=U9-1
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=U4-10
+Added Pin To Net: NetName=USART2_TX Pin=U9-4
+Added Net: Name=USART2_TX
+Added Member To Class: ClassName=power Member=Component C13 1uF/25V
+Added Member To Class: ClassName=power Member=Component C14 3.3nF/25V
+Added Member To Class: ClassName=mcu Member=Component R63 10K 1%
+Added Member To Class: ClassName=mcu Member=Component R64 10K 1%

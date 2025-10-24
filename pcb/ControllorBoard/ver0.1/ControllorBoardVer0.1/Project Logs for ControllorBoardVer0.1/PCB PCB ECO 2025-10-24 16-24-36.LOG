@@ -1,0 +1,10 @@
+Remove Pin from Net: Failed to remove Pin
+Added Pin To Net: NetName=SPI3_CS Pin=JP5-3
+Added Pin To Net: NetName=SPI3_MISO Pin=JP5-4
+Added Pin To Net: NetName=SPI3_SCK Pin=JP5-5
+Added Pin To Net: NetName=SPI3_MOSI Pin=JP5-6
+Added Pin To Net: NetName=UART4_TX Pin=JP6-3
+Added Pin To Net: NetName=UART4_RX Pin=JP6-4
+Added Pin To Net: NetName=SWCLK Pin=JP6-5
+Added Pin To Net: NetName=SWDIO Pin=JP6-6
+Added Pin To Net: NetName=NRST Pin=JP6-7

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Removed Pin From Net: NetName=PGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Pin To Net: NetName=SumGND Pin=Hole7-1
+Added Net: Name=SumGND
