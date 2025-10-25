@@ -1,0 +1,19 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Added Component: Designator=C13(c0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD-323)
+Add component (AddParameter): Name = "BOM名称"; Value = "高速开关二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=ADC_VBUS Pin=C13-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=ADC_VBUS Pin=D10-2
+Added Member To Class: ClassName=power Member=Component C13 100nF/16V
+Added Member To Class: ClassName=mcu Member=Component C14 100nF 16V DNP
+Added Member To Class: ClassName=power Member=Component D10 BZT52C3V3S
