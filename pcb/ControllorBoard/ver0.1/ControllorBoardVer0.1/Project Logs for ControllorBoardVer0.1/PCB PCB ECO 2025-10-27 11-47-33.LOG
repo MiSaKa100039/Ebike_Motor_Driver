@@ -1,0 +1,13 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=PGND Pin=JP4-0
+Removed Pin From Net: NetName=GND Pin=JP4-0
+Removed Pin From Net: NetName=GND Pin=JP5-0
+Removed Pin From Net: NetName=GND Pin=JP5-0
+Removed Pin From Net: NetName=GND Pin=JP6-0
+Removed Pin From Net: NetName=GND Pin=JP6-0
+Removed Pin From Net: NetName=GND Pin=U9-9
+Change Component Footprint: Designator=U1 Old Footprint=DFN-4L 1X1 New Footprint=ZQFN-4L_L1.0-W1.0-P0.63-BL-EP
+Change Component Footprint: Designator=U3 Old Footprint=DFN-4L 1X1 New Footprint=ZQFN-4L_L1.0-W1.0-P0.63-BL-EP
+Change Component Footprint: Designator=OPA2 Old Footprint=TLV9061 DPW New Footprint=X2SON-4_L0.8-W0.8-P0.48-TL-DPW
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=D10 NewDesignator=D?
