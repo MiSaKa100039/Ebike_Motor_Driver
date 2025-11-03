@@ -10,15 +10,47 @@ ADC_HandleTypeDef hadc2;
  */
 void BSP_Motor_Init(void)
 {
+
+  // GPIO_InitTypeDef GPIO_InitStruct = {0};
+  //
+  // __HAL_RCC_GPIOB_CLK_ENABLE();
+  // __HAL_RCC_GPIOA_CLK_ENABLE();
+  //
+  // GPIO_InitStruct.Pin = GPIO_PIN_10 | GPIO_PIN_9 | GPIO_PIN_8;
+  // GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  // GPIO_InitStruct.Pull = GPIO_NOPULL;
+  // GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  //
+  // HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
+  //
+  // GPIO_InitStruct.Pin = GPIO_PIN_15 | GPIO_PIN_14 |GPIO_PIN_13;
+  // GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  // GPIO_InitStruct.Pull = GPIO_NOPULL;
+  // GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  //
+  // HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
+  //
+  // HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,RESET);
+  // HAL_GPIO_WritePin(GPIOB,GPIO_PIN_15,RESET);
+  //
+  // HAL_GPIO_WritePin(GPIOA,GPIO_PIN_9,RESET);
+  // HAL_GPIO_WritePin(GPIOB,GPIO_PIN_14,RESET);
+  //
+  // HAL_GPIO_WritePin(GPIOA,GPIO_PIN_8,RESET);
+  // HAL_GPIO_WritePin(GPIOB,GPIO_PIN_13,RESET);
+  //
+  // HAL_Delay(200);
+
   MX_TIM1_Init();
   MX_ADC2_Init();
+
 }
 //启动电机
 void BSP_Motor_Start(void)
 {
   /* ADC校准（初始化后、启动前执行） */
   HAL_ADCEx_Calibration_Start(&hadc2, ADC_SINGLE_ENDED);
-  HAL_Delay(500);
+  HAL_Delay(10);
 
   HAL_ADCEx_InjectedStart_IT(&hadc2);
   HAL_TIM_Base_Start(&htim1);

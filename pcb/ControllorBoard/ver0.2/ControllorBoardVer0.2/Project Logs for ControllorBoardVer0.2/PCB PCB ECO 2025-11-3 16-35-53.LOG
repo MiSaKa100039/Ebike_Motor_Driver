@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=JP1 Old Footprint=贴片排母2.54mm_交错_8P New Footprint=贴片排母2.54mm_交错_8P - 正脚位
+Change Component Footprint: Designator=JP2 Old Footprint=贴片排母2.54mm_交错_8P New Footprint=贴片排母2.54mm_交错_8P - 正脚位
+Change Component Footprint: Designator=JP3 Old Footprint=贴片排母2.54mm_交错_8P New Footprint=贴片排母2.54mm_交错_8P - 正脚位
+Change Component Comment : Designator=R4 Old Comment=100K 1% New Comment=150K 1%

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Connector.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=driver.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=mcu.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=power.SchDoc|SheetNumber=1

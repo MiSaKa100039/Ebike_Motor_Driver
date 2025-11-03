@@ -6,7 +6,7 @@
 #if EnableFunction_Motor
 
 #define Tpwm  (1.0f / 20000.0f)   //PWM频率
-#define Udc 24.0f               //母线电压
+#define Udc 72.0f               //母线电压
 #define Vref 3.3f               //参考电压
 #define Vref_Offset 1.65f       //电压偏置
 #define GAIN 20                 //运放增益
