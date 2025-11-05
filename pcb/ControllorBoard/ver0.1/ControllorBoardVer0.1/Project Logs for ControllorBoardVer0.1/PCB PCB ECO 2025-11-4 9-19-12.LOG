@@ -1,0 +1,9 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=PGND Pin=JP4-0
+Removed Pin From Net: NetName=GND Pin=JP4-0
+Removed Pin From Net: NetName=GND Pin=JP5-0
+Removed Pin From Net: NetName=GND Pin=JP5-0
+Change Component Comment : Designator=R4 Old Comment=100K 1% New Comment=150K 1%
+Change Component Comment : Designator=U6 Old Comment=EG3113 New Comment=EG3112
+Change Component Comment : Designator=U7 Old Comment=EG3113 New Comment=EG3112
+Change Component Comment : Designator=U8 Old Comment=EG3113 New Comment=EG3112

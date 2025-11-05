@@ -190,75 +190,151 @@ DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.DRL
+DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.DRR
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.EXTREP
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.LDP
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.REP
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.TXT
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Profile.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
 DocumentPath=Project Outputs for ControllorBoardVer0.1\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for ControllorBoardVer0.2\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
@@ -528,7 +604,7 @@ OutputDefault2=0
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=BoardID=GKYUIMWU|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|UncheckPlotNPTHPair0_Backdrill=False|UncheckPlotNPTHPair0_Checked=False|UncheckPlotNPTHPair0_DrillType=Regular|UncheckPlotNPTHPair0_FileName= |UncheckPlotNPTHPair0_HighLayer=Top Layer|UncheckPlotNPTHPair0_LowLayer=Bottom Layer|UncheckPlotPTHPair0_Backdrill=False|UncheckPlotPTHPair0_Checked=False|UncheckPlotPTHPair0_DrillType=Regular|UncheckPlotPTHPair0_FileName= |UncheckPlotPTHPair0_HighLayer=Top Layer|UncheckPlotPTHPair0_LowLayer=Bottom Layer|DocumentPath=H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\PCB.PcbDoc
+Configuration2_Item2=BoardID=GKYUIMWU|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|UncheckPlotNPTHPair0_Backdrill=False|UncheckPlotNPTHPair0_Checked=False|UncheckPlotNPTHPair0_DrillType=Regular|UncheckPlotNPTHPair0_FileName= |UncheckPlotNPTHPair0_HighLayer=Top Layer|UncheckPlotNPTHPair0_LowLayer=Bottom Layer|UncheckPlotPTHPair0_Backdrill=False|UncheckPlotPTHPair0_Checked=False|UncheckPlotPTHPair0_DrillType=Regular|UncheckPlotPTHPair0_FileName= |UncheckPlotPTHPair0_HighLayer=Top Layer|UncheckPlotPTHPair0_LowLayer=Bottom Layer|DocumentPath=H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.2\ControllorBoardVer0.2\PCB.PcbDoc
 OutputType3=Board Stack Report
 OutputName3=Report Board Stack
 OutputDocumentPath3=
@@ -561,7 +637,7 @@ OutputDefault7=0
 Configuration7_Name1=ForceUpdateSettings
 Configuration7_Item1=False
 Configuration7_Name2=OutputConfigurationParameter1
-Configuration7_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.1\ControllorBoardVer0.1\PCB.PcbDoc
+Configuration7_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=H:\Project\Ebike_Motor_Driver\pcb\ControllorBoard\ver0.2\ControllorBoardVer0.2\PCB.PcbDoc
 OutputType8=ODB
 OutputName8=ODB++ Files
 OutputDocumentPath8=
@@ -857,6 +933,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
