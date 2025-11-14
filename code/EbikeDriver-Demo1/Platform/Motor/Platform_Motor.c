@@ -32,7 +32,9 @@ void Platform_Motor_Loop(void)
 {
     uint32_t ARR = BSP_Motor_GetAutoReload(); // ARR 对应一个半周期计数范围（中心对齐时 CCR 与 ARR 的换算按占空比)
 
-    float dtheta = 2.0f* 5 * PI * Tpwm;
+    float dtheta = 2.0f* 10* PI * Tpwm;
+
+
 
     Theta += dtheta;
     if (Theta > 2.0f * PI)
@@ -57,10 +59,11 @@ void Platform_Motor_Loop(void)
     // Shunt_Current.Ic =((ADC_RawValue.Uc * Vref / 4096.0f) - Vref_Offset) / (GAIN * 0.005f);
     // Shunt_Current.Ibus =((ADC_RawValue.Ubus * Vref / 4096.0f) - Vref_Offset) / (GAIN * 0.005f);
 
-    vofa_data[0] = ADC_RawValue.Ua - 1985;
-    vofa_data[1] = ADC_RawValue.Ub - 2073;
-    vofa_data[2] = ADC_RawValue.Uc - 2093;
+    vofa_data[0] = ADC_RawValue.Ua - 2024;
+    vofa_data[1] = ADC_RawValue.Ub - 2001;
+    vofa_data[2] = ADC_RawValue.Uc - 2076;
     vofa_data[3] = ADC_RawValue.Ubus - 2073;
+
 
     //Clark a b c ---- Alpha Beta
     // Clark_OutPut_t  Clark_OutPut= Clark_Calculation(Shunt_Current.Ia, Shunt_Current.Ib, Shunt_Current.Ic);
@@ -72,7 +75,7 @@ void Platform_Motor_Loop(void)
     // Voltage_Output_t Voltage_OutPut = Motor_PI_Current_Calculation(Id_cmd, Iq_cmd, Park_Output.Id, Park_Output.Iq);
 
     //InvPark Ud Uq ----- Alpha Beta
-    InvPark_OutPut_t InvPark_OutPut = InvPark_Calculation(0,2,Theta);
+    InvPark_OutPut_t InvPark_OutPut = InvPark_Calculation(0,4,Theta);
 
     //SVPWM  Alpha Beta ------a b c
     SVPWM_OutPut_t SVPWM_OutPut = SVPWM_Calculation(InvPark_OutPut.Ualpha, InvPark_OutPut.Ubeta);
