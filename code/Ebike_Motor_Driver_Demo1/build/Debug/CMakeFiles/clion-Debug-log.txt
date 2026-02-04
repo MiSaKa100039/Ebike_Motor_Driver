@@ -1,0 +1,6 @@
+"D:\CLion 2025.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2025.1.1/bin/ninja/win/x64/ninja.exe" "-DCMAKE_C_COMPILER=H:/ALL_Library/Clion_ToolChain/arm-none-eabe-14.3/14.3 rel1/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=H:/ALL_Library/Clion_ToolChain/arm-none-eabe-14.3/14.3 rel1/bin/arm-none-eabi-g++.exe" H:/Project/Ebike_Motor_Driver/code/Ebike_Motor_Driver_Demo1 -G Ninja -S H:\Project\Ebike_Motor_Driver\code\Ebike_Motor_Driver_Demo1 -B H:\Project\Ebike_Motor_Driver\code\Ebike_Motor_Driver_Demo1\build\Debug
+Build type: Debug
+-- Debug Build: Dangerous Test APIs ENABLED
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: H:/Project/Ebike_Motor_Driver/code/Ebike_Motor_Driver_Demo1/build/Debug

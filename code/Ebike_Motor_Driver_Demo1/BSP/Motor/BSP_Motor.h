@@ -1,33 +1,10 @@
-#ifndef BSP_MOTOR_H
-#define BSP_MOTOR_H
+#pragma once
 
-#include <sys/types.h>
+#include "Motor_HAL_Interface.h"
 
-#include "main.h"
+// 获取 BSP 实现好的 HAL 接口指针 (供 Platform 层配置用)
+const Lib_Motor::MotorHAL_t* BSP_Get_HAL_Impl(void);
 
-typedef struct
-{
-    uint16_t ShuntA;
-    uint16_t ShuntB;
-    uint16_t ShuntC;
-    uint16_t ShuntBus;
-    uint16_t NTC1;
-    uint16_t NTC2;
-    uint16_t Udc;
-} ADCRawValue_t;
-
-#define Injected 0
-#define Regular 1
-
-#define PI 3.14159265358979323846f
-
-void BSP_Motor_Init(void);
-void Bsp_Motor_Start(void);
-void Bsp_Motor_Stop(void);
-
-uint32_t BSP_Motor_GetAutoReload(void);
-void BSP_Motor_SetCompare(uint32_t CCR1, uint32_t CCR2, uint32_t CCR3);
-
-ADCRawValue_t Bsp_Motor_GetADCRawValue(uint8_t Type);
-
-#endif //BSP_MOTOR_H
+// 启动底层硬件 (Kick-off)
+// 负责开启中断、启动定时器计数，让 Tick 跑起来
+void BSP_Motor_Hardware_Start(void);

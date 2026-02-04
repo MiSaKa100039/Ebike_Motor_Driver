@@ -93,6 +93,18 @@ void HardFault_Handler(void)
   while (1)
   {
     /* USER CODE BEGIN W1_HardFault_IRQn 0 */
+
+    // ========================================================
+    // [救命代码] 无论发生什么，立即切断 PWM 输出！
+    // ========================================================
+
+    // 1. 强制关闭定时器主输出 (MOE bit)
+    // 假设你的电机用的是 TIM1
+    if (TIM1) {
+      TIM1->BDTR &= ~(TIM_BDTR_MOE); // 直接操作寄存器最快最安全
+      TIM1->CR1  &= ~(TIM_CR1_CEN);  // 停止计数
+    }
+
     /* USER CODE END W1_HardFault_IRQn 0 */
   }
 }

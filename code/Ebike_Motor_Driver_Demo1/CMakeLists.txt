@@ -77,11 +77,13 @@ set(Include_Dirs
 
         ##################################################
 
+        Lib/Motor/Motor_Public
+
+        ##################################################
+
         Platform/Communication/VOFA+
 
         Platform/Motor
-
-        Platform/Utils/FOC
 
         ##################################################
 
@@ -91,10 +93,29 @@ set(Include_Dirs
 # ---------------- 应用层源码 ----------------
 file(GLOB_RECURSE Application_Src
         "BSP/*.c"
+        "Lib/*.c"
         "Platform/*.c"
         "UserAPP/*.c"
 )
 
-target_sources(${CMAKE_PROJECT_NAME} PRIVATE ${Application_Src})
+file(GLOB_RECURSE Application_CXX_Src
+        "BSP/*.cpp"
+        "Lib/*.cpp"
+        "Platform/*.cpp"
+        "UserAPP/*.cpp"
+)
 
-target_include_directories(${PROJECT_NAME} PRIVATE ${Include_Dirs})
+target_sources(${CMAKE_PROJECT_NAME}
+        PRIVATE ${Application_Src}
+        PRIVATE ${Application_CXX_Src}
+)
+
+target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE ${Include_Dirs})
+
+# 判断构建类型
+if(CMAKE_BUILD_TYPE STREQUAL "Debug")
+    add_definitions(-DENABLE_DANGEROUS_TEST_API)
+    message(STATUS "Debug Build: Dangerous Test APIs ENABLED")
+else()
+    message(STATUS "Release Build: Dangerous Test APIs DISABLED")
+endif()
